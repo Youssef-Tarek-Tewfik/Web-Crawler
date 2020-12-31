@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.mshtml.dll
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\bin\Debug\WebCrawler.exe.config
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\bin\Debug\WebCrawler.exe
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\bin\Debug\WebCrawler.pdb
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\bin\Debug\Microsoft.mshtml.dll
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\obj\Debug\WebCrawler.exe
+C:\Users\User\source\repos\WebCrawler\ConsoleApp3\obj\Debug\WebCrawler.pdb
